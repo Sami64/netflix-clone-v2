@@ -18,6 +18,12 @@
 .nav__black {
   background-color: #111;
 }
+.nav__userWelcome {
+  position: fixed;
+  color: white;
+  font-weight: 800;
+  left: 85%;
+}
 
 .nav__logo {
   position: fixed;
